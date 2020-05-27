@@ -20,15 +20,15 @@ Repozytorium projektu R3 S6 2020
 * jaki komentarz ma zostać dodany
 
 **4. Zawartość:**
-1. 3 widoki:
-  * strona główna
-  * strana posta z komentarzami
-  * panel administratora
-2. 2 kontrolery:
-  * administratora
-  * użtkownika
-3. 4 modele:
-  * wyszukiwanie postów
-  * odczyt konkretnego posta i komentarzy
-  * dodawanie postów
-  * dodawanie komentarzy
+- 3 widoki:
+  - strona główna
+  - strana posta z komentarzami
+  - panel administratora
+- 2 kontrolery:
+  - administratora
+  - użtkownika
+- 4 modele:
+  - wyszukiwanie postów
+  - odczyt konkretnego posta i komentarzy
+  - dodawanie postów
+  - dodawanie komentarzy
