@@ -32,3 +32,10 @@ Repozytorium projektu R3 S6 2020
   - odczyt konkretnego posta i komentarzy
   - dodawanie postów
   - dodawanie komentarzy
+
+
+tabela posty:
+id(inc) | author | tekst |
+
+tabela komentarze:
+id(inc) | post_id | author | tekst |
