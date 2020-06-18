@@ -34,8 +34,10 @@ Repozytorium projektu R3 S6 2020
   - dodawanie komentarzy
 
 
-tabela posty:
-id(inc) | author | tekst |
+tabela posty: 
+id(inc) | author | text 
+------- | ------ | ----
 
 tabela komentarze:
-id(inc) | post_id | author | tekst |
+id(inc) | post_id | author | text
+------- | ------- | ------ | ----
