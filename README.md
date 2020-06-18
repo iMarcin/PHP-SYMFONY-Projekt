@@ -16,17 +16,17 @@ Repozytorium projektu R3 S6 2020
 * umożliwienie dodawania komentarzy
 
 **3. zbierane infromacje:**
-* jaki post ma zostac wyszukany
+* jaki post ma zostać wyszukany
 * jaki komentarz ma zostać dodany
 
 **4. Zawartość:**
 - 3 widoki:
   - strona główna
-  - strana posta z komentarzami
+  - strona posta z komentarzami
   - panel administratora
 - 2 kontrolery:
   - administratora
-  - użtkownika
+  - użytkownika
 - 4 modele:
   - wyszukiwanie postów
   - odczyt konkretnego posta i komentarzy
